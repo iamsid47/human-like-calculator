@@ -1,11 +1,11 @@
 ---
-name: 'Complex Calculator Using Python'
+name: 'Human-Like Calculator Using Python'
 description: 'A calculator where you type a statement and get the answer!'
 author: '@iamsid47'
 img: https://github.com/iamsid47/hangman-pics/blob/main/hangman.png
 ---
 
-## Simple Calculator
+## Human-Like Calculator
 
 In this workshop, we are gonna make a calculator which can add, multiply, divide and subtract two numbers. But the catch is that instead of just adding those two numbers, we give it a statement!
 
