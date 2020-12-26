@@ -2,8 +2,10 @@
 name: 'Human-Like Calculator Using Python'
 description: 'A calculator where you type a statement and get the answer!'
 author: '@iamsid47'
-img: https://github.com/iamsid47/hangman-pics/blob/main/hangman.png
+img: https://github.com/iamsid47/hangman-pics/blob/main/smart-calc.png
 ---
+
+![Smart Calculator](https://github.com/iamsid47/hangman-pics/blob/main/smart-calc.png)
 
 ## Human-Like Calculator
 
@@ -11,13 +13,15 @@ In this workshop, we are gonna make a calculator which can add, multiply, divide
 
 For example: *Hey calc, can you give me the lcm of 9 and 3* and it will provide you with the LCM (least common multiple) of those two numbers.
 
-You can try it out on Repl.it. Just click [Here]()
+You can try it out on Repl.it. Just click [Here](https://repl.it/@iamsid47/calc#main.py)
 
 ## Files & Libraries
 
 For this workshop, we only require a python file. Let's name it as `main.py`. We do not need any sort of extra libraries as well!
 
 ## Let's Get Started
+
+![Create a repl](https://github.com/iamsid47/hangman-pics/blob/main/human-like-calc-repl.png)
 
 Let's head over to [Repl.it](https://repl.it) and create a *repl*. Choose **Python** and name your project.
 First, we want our calculator to act a bit human. It should not output just numbers. It should welcome me when I run it. Or it shall tell me if it does not know about a calculation. For the same, we will create some responses.
@@ -193,6 +197,8 @@ Next in, we add an `else` for everything else. Meaning, if something other than 
 
 ## Voila! You did it!
 
+![Mission Accomplished](https://media.giphy.com/media/MAzunB1Ru6zAYlYgPD/giphy.gif)
+
 You just made your own human friendly calculator!
 
 ## Hack It ;)
@@ -200,3 +206,7 @@ You just made your own human friendly calculator!
 Furthermore more, we can also make this calculator go wild by adding in more functionality. As an example, it currently is able to do some basic stuff. But things like roots, squaring, equation solving with one variable can also be added. We can also improve the number of accepted tokens for the operations to improve it's user experience.
 
 You can also add in an equation solver which will be able to solve complex equations as well. But that actually comes under the initial stages of machine learning so it will also require a handful of other libraries!
+
+## How it feels?
+
+![How it works](https://github.com/iamsid47/hangman-pics/blob/main/how-calc-works.png)
